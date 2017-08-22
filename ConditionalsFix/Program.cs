@@ -60,7 +60,7 @@ namespace ConditionalsFix
 
                 //}
 
-                //else the total bill gets a 5 % disount
+                //else the total bill gets a 5% disount
 
                 //inform the user of the new total and how muh each person pays
                 //double perPerson = totalBill / numberOfPeople;
@@ -69,7 +69,7 @@ namespace ConditionalsFix
 
                 ////like if/else, switch ase also controls the flow
                 //int pointsEarned = 3;
-                //swith(pointsEarned
+                //switch(pointsEarned
                 //    {
                 //        case 1;
                 //    Console.WriteLine("Needs Pratice");

@@ -1,1 +1,5 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalsFix\ConditionalsFix\bin\Debug\ConditionalsFix.exe.config
+C:\Users\WeCanCodeIT\Documents\visual studio 2015\Projects\ConditionalsFix\ConditionalsFix\bin\Debug\ConditionalsFix.exe
+C:\Users\WeCanCodeIT\Documents\visual studio 2015\Projects\ConditionalsFix\ConditionalsFix\bin\Debug\ConditionalsFix.pdb
+C:\Users\WeCanCodeIT\Documents\visual studio 2015\Projects\ConditionalsFix\ConditionalsFix\obj\Debug\ConditionalsFix.exe
+C:\Users\WeCanCodeIT\Documents\visual studio 2015\Projects\ConditionalsFix\ConditionalsFix\obj\Debug\ConditionalsFix.pdb
